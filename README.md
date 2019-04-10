@@ -1,3 +1,2 @@
 # hello-word
-Looking fo Very Functionnel Datas.
-The world is quiet here.
+Looking fo Very Functionnel Datas to make the world a more quiet place.
